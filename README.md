@@ -34,17 +34,15 @@
 
  <hr/>
  
+
+<br/>
 <h2 align="center">⚒️ Languages & Tools ⚒️</h2>
 <br/>
 <div align="center">
     
-<img src="https://skillicons.dev/icons?i=javascript,nodejs,express,mongodb,mysql,git,heroku,postman" width="100"/><br>
+<img src="https://skillicons.dev/icons?i=javascript,nodejs,express,mongodb,mysql,git,heroku,postman" style="height: 100px; margin: 10px;" />
+    
 </div>
-
-<br/>
-<hr/>
-
-<div align="center">
   <h2>Support My Journey</h2>
   <a href="https://buymeacoffee.com/arnold-dev" target="_blank" style="text-decoration: none;">
     <img 
