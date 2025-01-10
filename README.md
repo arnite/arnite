@@ -16,7 +16,7 @@
 
  💬 Ask me about **Node.js, Express.js, MongoDB, MySQL, or anything [here](mailto:udembao429@gmail.com)**
 
- ⚡ Fun fact **I enjoy playing chess and reading books in my freetime**
+ ⚡ Fun fact **I enjoy reading books and watching classics**
  
 </div>
  
@@ -34,15 +34,17 @@
 
  <hr/>
  
-
-<br/>
 <h2 align="center">⚒️ Languages & Tools ⚒️</h2>
 <br/>
 <div align="center">
     
-<img src="https://skillicons.dev/icons?i=javascript,nodejs,express,mongodb,mysql,git,heroku,postman" style="height: 100px; margin: 10px;" />
-    
+<img src="https://skillicons.dev/icons?i=javascript,nodejs,express,mongodb,mysql,git,heroku,postman" style="height: 80px; margin: 10px;" /><br>
 </div>
+
+<br/>
+<hr/>
+
+<div align="center">
   <h2>Support My Journey</h2>
   <a href="https://buymeacoffee.com/arnold-dev" target="_blank" style="text-decoration: none;">
     <img 
