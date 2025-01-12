@@ -46,7 +46,7 @@
 
 <div align="center">
   <h2>Support My Journey</h2>
-  <a href="buymeacoffee.com/udembao429v" target="_blank" style="text-decoration: none;">
+  <a href="https://buymeacoffee.com/udembao429v" target="_blank" style="text-decoration: none;">
     <img 
       src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" 
       alt="Buy Me a Coffee" 
