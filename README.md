@@ -4,17 +4,17 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Arnold!;" />
 </h1>
 
-<h3 align="center">Backend & DevOps Engineer | Building robust APIs & Automated Infrastructure</h3>
+<h3 align="center">Backend Engineer | Building robust API's and scalable systems</h3>
 
 <br/>
 
 <div align="center">
  
- 🔭 I’m currently **working on becoming a better engineer by mastering microservices, SQL, and DevOps practices.**
+ 🔭 I’m currently **working on becoming a better Backend engineer by mastering microservices.**
 
- 🌱 I’m currently learning **Microservices Architecture & advanced DevOps practices**
+ 🌱 I’m currently learning **Microservices Architecture and event driven Architecture**
 
- 💬 Ask me about **Node.js, Express.js, MongoDB, MySQL, or anything [here](mailto:udembao429@gmail.com)**
+ 💬 Ask me about **Node.js, Express.js, MongoDB, MySQL, or anything [here](mailto: arnoldudemba7@gmail.com)**
 
  ⚡ Fun fact **I enjoy reading books and watching classics**
  
@@ -38,7 +38,7 @@
 <br/>
 <div align="center">
     
-<img src="https://skillicons.dev/icons?i=javascript,nodejs,express,mongodb,mysql,git,heroku,postman,docker,kubernetes,terraform"
+<img src="https://skillicons.dev/icons?i=javascript,nodejs,express,mongodb,mysql,git,heroku,postman"
 style="height: 80px; margin: 10px;" /><br>
 </div>
 
