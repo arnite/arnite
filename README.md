@@ -14,7 +14,7 @@
 
  🌱 I’m currently learning **Microservices Architecture and event driven Architecture**
 
- 💬 Ask me about **Node.js, Express.js, MongoDB, MySQL, or anything** [here](mailto:arnoldudemba7@gmail.com).
+ 💬 Ask me about **Node.js, Express.js, mongoDb, postgreSQL, or anything** [here](mailto:arnoldudemba7@gmail.com).
  
  ⚡ Fun fact **I enjoy reading books and watching classics**
  
